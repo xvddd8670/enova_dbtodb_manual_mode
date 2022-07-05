@@ -1,0 +1,23 @@
+[ENOVA]
+server = 192.168.40.24\ENOVA
+user = DJ
+password = KREma.234.luka
+database_1 = DromaSC78
+database_2 = Droma
+database_3 = DromaZW
+database_4 = Faher
+
+[ROGER]
+server = 192.168.71.253\ROGER_ZABRZE
+user = roger-ro
+password = QE4tWEG#$5
+database = Viso
+
+[TEST_MODE]
+test mode = on
+database_for_test = for_test_import
+table_for_test = test_copy_2
+
+[LOG_FILES]
+filename from bojkowska = PREvents.rcp
+
