@@ -466,6 +466,7 @@ while bool_to_main_while == True:
                 i_in_while += 1
         except:
             console.print(Panel("step 2 error\n create id list error"), style=rich_error)
+            console.print(Panel("maybe delete row 1 from PREvents.rcp"), style=rich_error)
             console.print(Panel(traceback.format_exc()), style=rich_error)
             return False
 

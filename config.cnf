@@ -14,7 +14,7 @@ password = QE4tWEG#$5
 database = Viso
 
 [TEST_MODE]
-test mode = on
+test mode = off
 database_for_test = for_test_import
 table_for_test = test_copy_2
 
